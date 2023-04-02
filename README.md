@@ -1,6 +1,5 @@
 READ ME
 ME5413_Final_Project_Solution
- 
 This is a solution of ME5413 Final Project
 Authors: Bo Li, Yuhong Tian, Haoyan Xue and Zongrui Li
  
