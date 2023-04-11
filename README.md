@@ -8,16 +8,25 @@ Authors: Bo Li, Yuhong Tian, Haoyan Xue and Zongrui Li
 
 ## 1  Dependencies
 
-system Requirements:
-Ubuntu 20.04
-ROS Noetic
-C++11 and above
-CMake: 3.0.2 and above
+System Requirements:
+
+       Ubuntu 20.04
+
+       ROS Noetic
+
+       C++11 and above
+
+       CMake: 3.0.2 and above
 
 Libraries:
+
+
        Ceres
+
        Evo
+
        Cartographer
+
        Teb-Local-planner
        
 
